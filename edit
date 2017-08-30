@@ -252,78 +252,78 @@ sign.wooden.medium
 sign.wooden.small
 skull.human
 skull.wolf
-sleepingbag              |
-small.oil.refinery       |
-smallwaterbottle         |
-smg.2                    |
-smg.mp5                  |
-smg.thompson             |
-smgbody                  |
-spear.stone              |
-spear.wooden             |
-spikes.floor             |
-spinner.wheel            |
-stash.small              |
-sticks                   |
-stocking.large           |
-stocking.small           |
-stone.pickaxe            |
-stonehatchet             |
-stones                   |
-sulfur                   |
-sulfur.ore               |
-supply.signal            |
-surveycharge             |
-syringe.medical          |
-table                    |
-target.reactive          |
-targeting.computer       |
-tarp                     |
-techparts                |
-tool.binoculars          |
-tool.camera              |
-torch                    |
-trap.bear                |
-trap.landmine            |
-tshirt                   |
-tshirt.long              |
-tunalight                |
-vending.machine          |
-wall.external.high       |
-wall.external.high.stone |
-wall.frame.cell          |
-wall.frame.cell.gate     |
-wall.frame.fence         |
-wall.frame.fence.gate    |
-wall.frame.netting       |
-wall.frame.shopfront     |
-wall.frame.shopfront.metal|
-wall.window.bars.metal   |
-wall.window.bars.toptier |
-wall.window.bars.wood    |
-water                    |
-water.barrel             |
-water.catcher.large      |
-water.catcher.small      |
-water.purifier           |
-water.salt               |
-waterjug                 |
-weapon.mod.flashlight    |
-weapon.mod.holosight     |
-weapon.mod.lasersight    |
-weapon.mod.muzzleboost   |
-weapon.mod.muzzlebrake   |
-weapon.mod.silencer      |
-weapon.mod.simplesight   |
-weapon.mod.small.scope   |
-wolfmeat.burned          |
-wolfmeat.cooked          |
-wolfmeat.raw             |
-wolfmeat.spoiled         |
-wood                     |
-wood.armor.helmet        |
-wood.armor.jacket        |
-wood.armor.pants         |
-xmas.present.large       |
-xmas.present.medium      |
-xmas.present.small       |
+sleepingbag
+small.oil.refinery
+smallwaterbottle
+smg.2
+smg.mp5
+smg.thompson
+smgbody
+spear.stone
+spear.wooden
+spikes.floor
+spinner.wheel
+stash.small
+sticks
+stocking.large
+stocking.small
+stone.pickaxe
+stonehatchet
+stones
+sulfur
+sulfur.ore
+supply.signal
+surveycharge
+syringe.medical
+table
+target.reactive
+targeting.computer
+tarp
+techparts
+tool.binoculars
+tool.camera
+torch
+trap.bear
+trap.landmine
+tshirt
+tshirt.long
+tunalight
+vending.machine
+wall.external.high
+wall.external.high.stone
+wall.frame.cell
+wall.frame.cell.gate
+wall.frame.fence
+wall.frame.fence.gate
+wall.frame.netting
+wall.frame.shopfront
+wall.frame.shopfront.metal
+wall.window.bars.metal
+wall.window.bars.toptier
+wall.window.bars.wood
+water
+water.barrel
+water.catcher.large
+water.catcher.small
+water.purifier
+water.salt
+waterjug
+weapon.mod.flashlight
+weapon.mod.holosight
+weapon.mod.lasersight
+weapon.mod.muzzleboost
+weapon.mod.muzzlebrake
+weapon.mod.silencer
+weapon.mod.simplesight
+weapon.mod.small.scope
+wolfmeat.burned
+wolfmeat.cooked
+wolfmeat.raw
+wolfmeat.spoiled
+wood
+wood.armor.helmet
+wood.armor.jacket
+wood.armor.pants
+xmas.present.large
+xmas.present.medium
+xmas.present.small
