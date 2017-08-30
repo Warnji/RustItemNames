@@ -1,329 +1,334 @@
-ammo.handmade.shell
-ammo.pistol
-ammo.pistol.fire
-ammo.pistol.hv
-ammo.rifle
-ammo.rifle.explosive
-ammo.rifle.hv
-ammo.rifle.incendiary
-ammo.rocket.basic
-ammo.rocket.fire
-ammo.rocket.hv
-ammo.rocket.smoke
-ammo.shotgun
-ammo.shotgun.slug
-antiradpills
-apple
-apple.spoiled
-arrow.hv
-arrow.wooden
-attire.hide.boots
-attire.hide.helterneck
-attire.hide.pants
-attire.hide.poncho
-attire.hide.skirt
-attire.hide.vest
-autoturret
-axe.salvaged
-bandage
-barricade.concrete
-barricade.metal
-barricade.sandbags
-barricade.stone
-barricade.wood
-barricade.woodwire
-battery.small
-bearmeat
-bearmeat.burned
-bearmeat.cooked
-bed
-black.raspberries
-bleach
-blood
-blueberries
-blueprintbase
-bone.armor.suit
-bone.club
-bone.fragments
-botabag
-bow.hunting
-box.repair.bench
-box.wooden
-box.wooden.large
-bucket.helmet
-bucket.water
-building.planner
-burlap.gloves
-burlap.headwrap
-burlap.shirt
-burlap.shoes
-burlap.trousers
-cactusflesh
-campfire
-can.beans
-can.beans.empty
-can.tuna
-can.tuna.empty
-candycane
-cctv.camera
-ceilinglight
-chair
-charcoal
-chicken.burned
-chicken.cooked
-chicken.raw
-chicken.spoiled
-chocholate
-clone.corn
-clone.hemp
-clone.pumpkin
-cloth
-coal
-coffeecan.helmet
-corn
-crossbow
-crude.oil
-cupboard.tool
-deer.skull.mask
-deermeat.burned
-deermeat.cooked
-deermeat.raw
-door.closer
-door.double.hinged.metal
-door.double.hinged.toptier
-door.double.hinged.wood
-door.hinged.metal
-door.hinged.toptier
-door.hinged.wood
-door.key
-dropbox
-ducttape
-explosive.satchel
-explosive.timed
-explosives
-fat.animal
-fish.cooked
-fish.minnows
-fish.raw
-fish.troutsmall
-fishtrap.small
-flamethrower
-flameturret
-flare
-floor.grill
-floor.ladder.hatch
-fridge
-fun.guitar
-furnace
-furnace.large
-gates.external.high.stone
-gates.external.high.wood
-gears
-generator.wind.scrap
-glue
-granolabar
-grenade.beancan
-grenade.f1
-gunpowder
-guntrap
-hammer
-hammer.salvaged
-hat.beenie
-hat.boonie
-hat.candle
-hat.cap
-hat.miner
-hat.wolf
-hatchet
-hazmatsuit
-heavy.plate.helmet
-heavy.plate.jacket
-heavy.plate.pants
-hoodie
-hq.metal.ore
-humanmeat.burned
-humanmeat.cooked
-humanmeat.raw
-humanmeat.spoiled
-icepick.salvaged
-jacket
-jacket.snow
-jackolantern.angry
-jackolantern.happy
-knife.bone
-ladder.wooden.wall
-lantern
-largemedkit
-leather
-lmg.m249
-lock.code
-lock.key
-locker
-longsword
-lowgradefuel
-mace
-machete
-mailbox
-map
-mask.balaclava
-mask.bandana
-meat.boar
-meat.pork.burned
-meat.pork.cooked
-metal.facemask
-metal.fragments
-metal.ore
-metal.plate.torso
-metal.refined
-metalblade
-metalpipe
-metalspring
-mining.pumpjack
-mining.quarry
-mushroom
-note
-pants
-pants.shorts
-paper
-pickaxe
-pistol.eoka
-pistol.m92
-pistol.python
-pistol.revolver
-pistol.semiauto
-planter.large
-planter.small
-pookie.bear
-propanetank
-pumpkin
-research.table
-researchpaper
-rifle.ak
-rifle.bolt
-rifle.lr300
-rifle.semiauto
-riflebody
-riot.helmet
-roadsign.jacket
-roadsign.kilt
-roadsigns
-rock
-rocket.launcher
-rope
-rug
-rug.bear
-salvaged.cleaver
-salvaged.sword
-santahat
-scrap
-searchlight
-seed.corn
-seed.hemp
-seed.pumpkin
-semibody
-sewingkit
-sheetmetal
-shelves
-shirt.collared
-shirt.tanktop
-shoes.boots
-shotgun.double
-shotgun.pump
-shotgun.waterpipe
-shutter.metal.embrasure.a
-shutter.metal.embrasure.b
-shutter.wood.a
-sign.hanging
-sign.hanging.banner.large
-sign.hanging.ornate
-sign.pictureframe.landscape
-sign.pictureframe.portrait
-sign.pictureframe.tall
-sign.pictureframe.xl
-sign.pictureframe.xxl
-sign.pole.banner.large
-sign.post.double
-sign.post.single
-sign.post.town
-sign.post.town.roof
-sign.wooden.huge
-sign.wooden.large
-sign.wooden.medium
-sign.wooden.small
-skull.human
-skull.wolf
-sleepingbag
-small.oil.refinery
-smallwaterbottle
-smg.2
-smg.mp5
-smg.thompson
-smgbody
-spear.stone
-spear.wooden
-spikes.floor
-spinner.wheel
-stash.small
-sticks
-stocking.large
-stocking.small
-stone.pickaxe
-stonehatchet
-stones
-sulfur
-sulfur.ore
-supply.signal
-surveycharge
-syringe.medical
-table
-target.reactive
-targeting.computer
-tarp
-techparts
-tool.binoculars
-tool.camera
-torch
-trap.bear
-trap.landmine
-tshirt
-tshirt.long
-tunalight
-vending.machine
-wall.external.high
-wall.external.high.stone
-wall.frame.cell
-wall.frame.cell.gate
-wall.frame.fence
-wall.frame.fence.gate
-wall.frame.netting
-wall.frame.shopfront
-wall.frame.shopfront.metal
-wall.window.bars.metal
-wall.window.bars.toptier
-wall.window.bars.wood
-water
-water.barrel
-water.catcher.large
-water.catcher.small
-water.purifier
-water.salt
-waterjug
-weapon.mod.flashlight
-weapon.mod.holosight
-weapon.mod.lasersight
-weapon.mod.muzzleboost
-weapon.mod.muzzlebrake
-weapon.mod.silencer
-weapon.mod.simplesight
-weapon.mod.small.scope
-wolfmeat.burned
-wolfmeat.cooked
-wolfmeat.raw
-wolfmeat.spoiled
-wood
-wood.armor.helmet
-wood.armor.jacket
-wood.armor.pants
-xmas.present.large
-xmas.present.medium
-xmas.present.small
+{
+	"ItemListBarrels": {
+		"ammo.handmade.shell": 50,
+		"ammo.pistol": 50,
+		"ammo.pistol.fire": 0,
+		"ammo.pistol.hv": 0,
+		"ammo.rifle": 10,
+		"ammo.rifle.explosive": 0,
+		"ammo.rifle.hv": 0,
+		"ammo.rifle.incendiary": 0,
+		"ammo.rocket.basic": 1,
+		"ammo.rocket.fire": 0,
+		"ammo.rocket.hv": 0,
+		"ammo.rocket.smoke": 0,
+		"ammo.shotgun": 10,
+		"ammo.shotgun.slug": 0,
+		"antiradpills": 0,
+		"apple": 0,
+		"apple.spoiled": 0,
+		"arrow.hv": 10,
+		"arrow.wooden": 50,
+		"attire.hide.boots": 1,
+		"attire.hide.helterneck": 1,
+		"attire.hide.pants": 1,
+		"attire.hide.poncho": 1,
+		"attire.hide.skirt": 1,
+		"attire.hide.vest": 1,
+		"autoturret": 1,
+		"axe.salvaged": 1,
+		"bandage": 5,
+		"barricade.concrete": 1,
+		"barricade.metal": 1,
+		"barricade.sandbags": 1,
+		"barricade.stone": 1,
+		"barricade.wood": 1,
+		"barricade.woodwire": 1,
+		"battery.small": 0,
+		"bearmeat": 5,
+		"bearmeat.burned": 0,
+		"bearmeat.cooked": 5,
+		"bed": 1,
+		"black.raspberries": 5,
+		"bleach": 0,
+		"blood": 0,
+		"blueberries": 5,
+		"blueprintbase": 0,
+		"bone.armor.suit": 1,
+		"bone.club": 1,
+		"bone.fragments": 1,
+		"botabag": 1,
+		"bow.hunting": 1,
+		"box.repair.bench": 0,
+		"box.wooden": 2,
+		"box.wooden.large": 2,
+		"bucket.helmet": 1,
+		"bucket.water": 1,
+		"building.planner": 1,
+		"burlap.gloves": 1,
+		"burlap.headwrap": 1,
+		"burlap.shirt": 1,
+		"burlap.shoes": 1,
+		"burlap.trousers": 1,
+		"cactusflesh": 5,
+		"campfire": 1,
+		"can.beans": 5,
+		"can.beans.empty": 0,
+		"can.tuna": 5,
+		"can.tuna.empty": 0,
+		"candycane": 5,
+		"cctv.camera": 0,
+		"ceilinglight": 1,
+		"chair": 1,
+		"charcoal": 0,
+		"chicken.burned": 0,
+		"chicken.cooked": 5,
+		"chicken.raw": 0,
+		"chicken.spoiled": 0,
+		"chocholate": 5,
+		"clone.corn": 0,
+		"clone.hemp": 0,
+		"clone.pumpkin": 0,
+		"cloth": 0,
+		"coal": 0,
+		"coffeecan.helmet": 1,
+		"corn": 5,
+		"crossbow": 1,
+		"crude.oil": 0,
+		"cupboard.tool": 1,
+		"deer.skull.mask": 1,
+		"deermeat.burned": 0,
+		"deermeat.cooked": 5,
+		"deermeat.raw": 0,
+		"door.closer": 0,
+		"door.double.hinged.metal": 1,
+		"door.double.hinged.toptier": 1,
+		"door.double.hinged.wood": 1,
+		"door.hinged.metal": 1,
+		"door.hinged.toptier": 1,
+		"door.hinged.wood": 1,
+		"door.key": 1,
+		"dropbox": 1,
+		"ducttape": 0,
+		"explosive.satchel": 0,
+		"explosive.timed": 0,
+		"explosives": 0,
+		"fat.animal": 0,
+		"fish.cooked": 5,
+		"fish.minnows": 0,
+		"fish.raw": 0,
+		"fish.troutsmall": 0,
+		"fishtrap.small": 1,
+		"flamethrower": 0,
+		"flameturret": 0,
+		"flare": 0,
+		"floor.grill": 1,
+		"floor.ladder.hatch": 1,
+		"fridge": 1,
+		"fun.guitar": 1,
+		"furnace": 1,
+		"furnace.large": 0,
+		"gates.external.high.stone": 1,
+		"gates.external.high.wood": 1,
+		"gears": 0,
+		"generator.wind.scrap": 0,
+		"glue": 0,
+		"granolabar": 5,
+		"grenade.beancan": 0,
+		"grenade.f1": 0,
+		"gunpowder": 0,
+		"guntrap": 0,
+		"hammer":1,
+		"hammer.salvaged":1,
+		"hat.beenie":1,
+		"hat.boonie":1,
+		"hat.candle":1,
+		"hat.cap":1,
+		"hat.miner":1,
+		"hat.wolf":1,
+		"hatchet":1,
+		"hazmatsuit"0,
+		"heavy.plate.helmet":0,
+		"heavy.plate.jacket":0,
+		"heavy.plate.pants":0,
+		"hoodie":1,
+		"hq.metal.ore":10,
+		"humanmeat.burned":0,
+		"humanmeat.cooked":0,
+		"humanmeat.raw":0,
+		"humanmeat.spoiled":0,
+		"icepick.salvaged":1,
+		"jacket":1,
+		"jacket.snow":1,
+		"jackolantern.angry":1,
+		"jackolantern.happy":1,
+		knife.bone
+		ladder.wooden.wall
+		lantern
+		largemedkit
+		leather
+		lmg.m249
+		lock.code
+		lock.key
+		locker
+		longsword
+		lowgradefuel
+		mace
+		machete
+		mailbox
+		map
+		mask.balaclava
+		mask.bandana
+		meat.boar
+		meat.pork.burned
+		meat.pork.cooked
+		metal.facemask
+		metal.fragments
+		metal.ore
+		metal.plate.torso
+		metal.refined
+		metalblade
+		metalpipe
+		metalspring
+		mining.pumpjack
+		mining.quarry
+		mushroom
+		note
+		pants
+		pants.shorts
+		paper
+		pickaxe
+		pistol.eoka
+		pistol.m92
+		pistol.python
+		pistol.revolver
+		pistol.semiauto
+		planter.large
+		planter.small
+		pookie.bear
+		propanetank
+		pumpkin
+		research.table
+		researchpaper
+		rifle.ak
+		rifle.bolt
+		rifle.lr300
+		rifle.semiauto
+		riflebody
+		riot.helmet
+		roadsign.jacket
+		roadsign.kilt
+		roadsigns
+		rock
+		rocket.launcher
+		rope
+		rug
+		rug.bear
+		salvaged.cleaver
+		salvaged.sword
+		santahat
+		scrap
+		searchlight
+		seed.corn
+		seed.hemp
+		seed.pumpkin
+		semibody
+		sewingkit
+		sheetmetal
+		shelves
+		shirt.collared
+		shirt.tanktop
+		shoes.boots
+		shotgun.double
+		shotgun.pump
+		shotgun.waterpipe
+		shutter.metal.embrasure.a
+		shutter.metal.embrasure.b
+		shutter.wood.a
+		sign.hanging
+		sign.hanging.banner.large
+		sign.hanging.ornate
+		sign.pictureframe.landscape
+		sign.pictureframe.portrait
+		sign.pictureframe.tall
+		sign.pictureframe.xl
+		sign.pictureframe.xxl
+		sign.pole.banner.large
+		sign.post.double
+		sign.post.single
+		sign.post.town
+		sign.post.town.roof
+		sign.wooden.huge
+		sign.wooden.large
+		sign.wooden.medium
+		sign.wooden.small
+		skull.human
+		skull.wolf
+		sleepingbag
+		small.oil.refinery
+		smallwaterbottle
+		smg .2
+		smg.mp5
+		smg.thompson
+		smgbody
+		spear.stone
+		spear.wooden
+		spikes.floor
+		spinner.wheel
+		stash.small
+		sticks
+		stocking.large
+		stocking.small
+		stone.pickaxe
+		stonehatchet
+		stones
+		sulfur
+		sulfur.ore
+		supply.signal
+		surveycharge
+		syringe.medical
+		table
+		target.reactive
+		targeting.computer
+		tarp
+		techparts
+		tool.binoculars
+		tool.camera
+		torch
+		trap.bear
+		trap.landmine
+		tshirt
+		tshirt.long
+		tunalight
+		vending.machine
+		wall.external.high
+		wall.external.high.stone
+		wall.frame.cell
+		wall.frame.cell.gate
+		wall.frame.fence
+		wall.frame.fence.gate
+		wall.frame.netting
+		wall.frame.shopfront
+		wall.frame.shopfront.metal
+		wall.window.bars.metal
+		wall.window.bars.toptier
+		wall.window.bars.wood
+		water
+		water.barrel
+		water.catcher.large
+		water.catcher.small
+		water.purifier
+		water.salt
+		waterjug
+		weapon.mod.flashlight
+		weapon.mod.holosight
+		weapon.mod.lasersight
+		weapon.mod.muzzleboost
+		weapon.mod.muzzlebrake
+		weapon.mod.silencer
+		weapon.mod.simplesight
+		weapon.mod.small.scope
+		wolfmeat.burned
+		wolfmeat.cooked
+		wolfmeat.raw
+		wolfmeat.spoiled
+		wood
+		wood.armor.helmet
+		wood.armor.jacket
+		wood.armor.pants
+		xmas.present.large
+		xmas.present.medium
+		xmas.present.small
+	},
+	
+}
