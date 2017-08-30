@@ -1,0 +1,329 @@
+ammo.handmade.shell
+ammo.pistol
+ammo.pistol.fire
+ammo.pistol.hv
+ammo.rifle
+ammo.rifle.explosive
+ammo.rifle.hv
+ammo.rifle.incendiary
+ammo.rocket.basic
+ammo.rocket.fire
+ammo.rocket.hv
+ammo.rocket.smoke
+ammo.shotgun
+ammo.shotgun.slug
+antiradpills
+apple
+apple.spoiled
+arrow.hv
+arrow.wooden
+attire.hide.boots
+attire.hide.helterneck
+attire.hide.pants
+attire.hide.poncho
+attire.hide.skirt
+attire.hide.vest
+autoturret
+axe.salvaged
+bandage
+barricade.concrete
+barricade.metal
+barricade.sandbags
+barricade.stone
+barricade.wood
+barricade.woodwire
+battery.small
+bearmeat
+bearmeat.burned
+bearmeat.cooked
+bed
+black.raspberries
+bleach
+blood
+blueberries
+blueprintbase
+bone.armor.suit
+bone.club
+bone.fragments
+botabag
+bow.hunting
+box.repair.bench
+box.wooden
+box.wooden.large
+bucket.helmet
+bucket.water
+building.planner
+burlap.gloves
+burlap.headwrap
+burlap.shirt
+burlap.shoes
+burlap.trousers
+cactusflesh
+campfire
+can.beans
+can.beans.empty
+can.tuna
+can.tuna.empty
+candycane
+cctv.camera
+ceilinglight
+chair
+charcoal
+chicken.burned
+chicken.cooked
+chicken.raw
+chicken.spoiled
+chocholate
+clone.corn
+clone.hemp
+clone.pumpkin
+cloth
+coal
+coffeecan.helmet
+corn
+crossbow
+crude.oil
+cupboard.tool
+deer.skull.mask
+deermeat.burned
+deermeat.cooked
+deermeat.raw
+door.closer
+door.double.hinged.metal
+door.double.hinged.toptier
+door.double.hinged.wood
+door.hinged.metal
+door.hinged.toptier
+door.hinged.wood
+door.key
+dropbox
+ducttape
+explosive.satchel
+explosive.timed
+explosives
+fat.animal
+fish.cooked
+fish.minnows
+fish.raw
+fish.troutsmall
+fishtrap.small
+flamethrower
+flameturret
+flare
+floor.grill
+floor.ladder.hatch
+fridge
+fun.guitar
+furnace
+furnace.large
+gates.external.high.stone
+gates.external.high.wood
+gears
+generator.wind.scrap
+glue
+granolabar
+grenade.beancan
+grenade.f1
+gunpowder
+guntrap
+hammer
+hammer.salvaged
+hat.beenie
+hat.boonie
+hat.candle
+hat.cap
+hat.miner
+hat.wolf
+hatchet
+hazmatsuit
+heavy.plate.helmet
+heavy.plate.jacket
+heavy.plate.pants
+hoodie
+hq.metal.ore
+humanmeat.burned
+humanmeat.cooked
+humanmeat.raw
+humanmeat.spoiled
+icepick.salvaged
+jacket
+jacket.snow
+jackolantern.angry
+jackolantern.happy
+knife.bone
+ladder.wooden.wall
+lantern
+largemedkit
+leather
+lmg.m249
+lock.code
+lock.key
+locker
+longsword
+lowgradefuel
+mace
+machete
+mailbox
+map
+mask.balaclava
+mask.bandana
+meat.boar
+meat.pork.burned
+meat.pork.cooked
+metal.facemask
+metal.fragments
+metal.ore
+metal.plate.torso
+metal.refined
+metalblade
+metalpipe
+metalspring
+mining.pumpjack
+mining.quarry
+mushroom
+note
+pants
+pants.shorts
+paper
+pickaxe
+pistol.eoka
+pistol.m92
+pistol.python
+pistol.revolver
+pistol.semiauto
+planter.large
+planter.small
+pookie.bear
+propanetank
+pumpkin
+research.table
+researchpaper
+rifle.ak
+rifle.bolt
+rifle.lr300
+rifle.semiauto
+riflebody
+riot.helmet
+roadsign.jacket
+roadsign.kilt
+roadsigns
+rock
+rocket.launcher
+rope
+rug
+rug.bear
+salvaged.cleaver
+salvaged.sword
+santahat
+scrap
+searchlight
+seed.corn
+seed.hemp
+seed.pumpkin
+semibody
+sewingkit
+sheetmetal
+shelves
+shirt.collared
+shirt.tanktop
+shoes.boots
+shotgun.double
+shotgun.pump
+shotgun.waterpipe
+shutter.metal.embrasure.a
+shutter.metal.embrasure.b
+shutter.wood.a
+sign.hanging
+sign.hanging.banner.large
+sign.hanging.ornate
+sign.pictureframe.landscape
+sign.pictureframe.portrait
+sign.pictureframe.tall
+sign.pictureframe.xl
+sign.pictureframe.xxl
+sign.pole.banner.large
+sign.post.double
+sign.post.single
+sign.post.town
+sign.post.town.roof
+sign.wooden.huge
+sign.wooden.large
+sign.wooden.medium
+sign.wooden.small
+skull.human
+skull.wolf
+sleepingbag              |
+small.oil.refinery       |
+smallwaterbottle         |
+smg.2                    |
+smg.mp5                  |
+smg.thompson             |
+smgbody                  |
+spear.stone              |
+spear.wooden             |
+spikes.floor             |
+spinner.wheel            |
+stash.small              |
+sticks                   |
+stocking.large           |
+stocking.small           |
+stone.pickaxe            |
+stonehatchet             |
+stones                   |
+sulfur                   |
+sulfur.ore               |
+supply.signal            |
+surveycharge             |
+syringe.medical          |
+table                    |
+target.reactive          |
+targeting.computer       |
+tarp                     |
+techparts                |
+tool.binoculars          |
+tool.camera              |
+torch                    |
+trap.bear                |
+trap.landmine            |
+tshirt                   |
+tshirt.long              |
+tunalight                |
+vending.machine          |
+wall.external.high       |
+wall.external.high.stone |
+wall.frame.cell          |
+wall.frame.cell.gate     |
+wall.frame.fence         |
+wall.frame.fence.gate    |
+wall.frame.netting       |
+wall.frame.shopfront     |
+wall.frame.shopfront.metal|
+wall.window.bars.metal   |
+wall.window.bars.toptier |
+wall.window.bars.wood    |
+water                    |
+water.barrel             |
+water.catcher.large      |
+water.catcher.small      |
+water.purifier           |
+water.salt               |
+waterjug                 |
+weapon.mod.flashlight    |
+weapon.mod.holosight     |
+weapon.mod.lasersight    |
+weapon.mod.muzzleboost   |
+weapon.mod.muzzlebrake   |
+weapon.mod.silencer      |
+weapon.mod.simplesight   |
+weapon.mod.small.scope   |
+wolfmeat.burned          |
+wolfmeat.cooked          |
+wolfmeat.raw             |
+wolfmeat.spoiled         |
+wood                     |
+wood.armor.helmet        |
+wood.armor.jacket        |
+wood.armor.pants         |
+xmas.present.large       |
+xmas.present.medium      |
+xmas.present.small       |
